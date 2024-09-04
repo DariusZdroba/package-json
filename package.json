@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.1",
-    "web-vitals": "^2.1.4",
-    "electron": "29.4.5"
+    "@reduxjs/toolkit": "^1.9.1"
   },
   "scripts": {
     "start": "react-scripts start",
