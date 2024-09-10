@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "express-fileupload": "0.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
